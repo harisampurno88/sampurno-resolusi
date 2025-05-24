@@ -1,0 +1,7 @@
+Bisa dan paham beberapa hal dibawah ini
+-laravel
+-git dan github
+-membuat web complit
+-mobile (opsional)
+-js,node js,next js
+-ngobrol langsung sama imelja 
