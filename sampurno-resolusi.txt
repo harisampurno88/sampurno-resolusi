@@ -4,5 +4,3 @@ Bisa dan paham beberapa hal dibawah ini
 -membuat web complit
 -mobile (opsional)
 -js,node js,next js
--ngobrol langsung sama imelja 
--baikan/balika sama imelja
