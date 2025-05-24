@@ -5,3 +5,4 @@ Bisa dan paham beberapa hal dibawah ini
 -mobile (opsional)
 -js,node js,next js
 -ngobrol langsung sama imelja 
+-baikan/balika sama imelja
